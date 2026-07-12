@@ -11,7 +11,8 @@ sign‑up, no email — you just open it and go. **Everyone is anonymous.**
 - **Encrypted** — your traffic is protected with a fresh key negotiated each
   session; no secret key is stored inside the app.
 - **Posts** — share text over colorful backgrounds; **like** and **reply** to
-  posts. Browse **Latest**, **Local** (near you), or by **#tag**.
+  posts. Browse **Latest**, **Local** (near you), or by **Tag** — **search
+  tags** to find topics, and **add your own tags** when you post.
 - **Private messages (DMs)** — one‑to‑one chats with **images** and **short
   videos (up to 10 seconds)**, plus **read receipts**. Send media with the
   **＋** button, and tap any photo to view it full‑screen. The **camera icon**
