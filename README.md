@@ -1,15 +1,15 @@
 # TalkTime
 
 A free, anonymous social + private messaging app for Android. No account, no
-sign‑up, no email — you just open it and go.
+sign‑up, no email — you just open it and go. **Everyone is anonymous.**
 
 ## Features
 
 - **Free & no account** — no signup, no email, no phone number.
-- **Anonymous** — you get a random username (change it if you like); your posts
-  don't reveal who you are.
-- **Encrypted** — the app and the server negotiate a fresh key each session
-  (ECDH); no secret key is stored inside the app.
+- **Anonymous for everyone** — you get a random username (change it if you like);
+  your posts and chats don't reveal who you are.
+- **Encrypted** — your traffic is protected with a fresh key negotiated each
+  session; no secret key is stored inside the app.
 - **Posts** — share text over colorful backgrounds; **like** and **reply** to
   posts. Browse **Latest**, **Local** (near you), or by **#tag**.
 - **Private messages (DMs)** — one‑to‑one chats with **images** and **short
@@ -25,16 +25,10 @@ sign‑up, no email — you just open it and go.
 
 **`TalkTime.apk`** (in this repo)
 
-- Size: **4.21 MB**
-- SHA‑256: `f7207c405e25f10a40e9be17c03e08e6c2dab630a164d62c12fa078b929c538d`
-
-Verify the download (optional):
-```
-# Android (Termux) or any Linux/macOS
-sha256sum TalkTime.apk
-# Windows PowerShell
-Get-FileHash TalkTime.apk -Algorithm SHA256
-```
+- Size: **4.2 MB**
+- SHA‑256: run `sha256sum TalkTime.apk` (Linux/macOS/Termux) or
+  `Get-FileHash TalkTime.apk -Algorithm SHA256` (Windows) and compare with the
+  value in the latest release notes.
 
 ## Install (Android)
 
@@ -46,30 +40,24 @@ Get-FileHash TalkTime.apk -Algorithm SHA256
    - Or set it ahead of time: **Settings → Apps → Special access →
      Install unknown apps** → pick your browser/Files → **Allow**.
 3. Tap **Install**, then **Open**.
+4. On first launch, read and accept the disclaimer to continue.
 
-> This is a **debug build** (not from the Play Store), so Android shows the
-> "unknown app" warning — that's expected for sideloaded apps.
+> This is a **sideloaded build** (not from the Play Store), so Android shows the
+> "unknown app" warning — that's expected.
 
 ## Requirements
 
-- Android 7.0+ (roughly — modern Android WebView).
-- **Internet connection.** TalkTime talks to a small server that the host runs.
-  As long as that server is online, the app works from **any Wi‑Fi or mobile
-  data, anywhere** — the phone does **not** need to be on the same network.
+- Android 7.0+ (modern Android WebView).
+- An **internet connection** — works from any Wi‑Fi or mobile data, anywhere.
 
-## Server address
+## Disclaimer
 
-TalkTime ships pointing at its server. If the host tells you the address has
-changed, update it in‑app: **Me → Server address**, paste the new URL, **Save**
-(the app reloads). No reinstall needed.
-
-## Privacy & safety notes
-
-- Posts are anonymous to other users, but the **server can read content** (it's
-  not end‑to‑end). Encryption protects your traffic from the network in between.
-- All content lives on the host's server, not on public cloud storage.
-- Report abuse with the **Report** option in any chat — it's sent to the server.
-
-## Version
-
-- TalkTime debug build — see commit history for changes.
+TalkTime is provided **"as is"**, with no warranties of any kind. **You use this
+app entirely at your own risk and assume sole responsibility for how you use it**,
+including anything you post, send, or share, and any interactions with other
+users. You must be of legal age in your location and follow all applicable laws;
+do not post or send anything illegal, and do not harass, threaten, impersonate,
+or harm others. To the fullest extent permitted by law, the creators and anyone
+involved in making this app are **not liable** for any loss, damage, or harm
+arising from your use of the app or from other users' conduct. You accept these
+terms when you tap **I Agree** on first launch.
