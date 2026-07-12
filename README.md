@@ -27,7 +27,7 @@ sign‑up, no email — you just open it and go. **Everyone is anonymous.**
   you and start a chat.
 - **Safety** — **block**, **report**, and **delete chat** from the ⋮ menu.
 - **Optional app lock** — set a PIN (Me → App lock) to lock the app on your phone.
-- **Fair posting** — post as much as you want, with a 30‑minute gap between posts.
+- **Fair posting** — post as much as you want, with a 10‑minute gap between posts.
   Posts age out of the app after about a month.
 
 ## Download
