@@ -13,7 +13,9 @@ sign‑up, no email — you just open it and go. **Everyone is anonymous.**
 - **Posts** — share text over colorful backgrounds; **like** and **reply** to
   posts. Browse **Latest**, **Local** (near you), or by **#tag**.
 - **Private messages (DMs)** — one‑to‑one chats with **images** and **short
-  videos (up to 10 seconds)**, plus **read receipts**.
+  videos (up to 10 seconds)**, plus **read receipts**. Take a photo with the
+  **camera** button (top‑right of a chat) or pick from your gallery; tap any
+  photo to view it full‑screen.
 - **Find people nearby** — opt‑in location to discover other TalkTime users near
   you and start a chat.
 - **Safety** — **block**, **report**, and **delete chat** from the ⋮ menu.
