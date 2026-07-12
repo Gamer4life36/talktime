@@ -67,6 +67,11 @@ including anything you post, send, or share, and any interactions with other
 users. Follow all applicable laws; do not post or send anything illegal, and do
 not harass, threaten, impersonate, or harm others.
 
+You are anonymous to other users. For safety and to comply with the law, the
+service keeps records — including a device identifier, IP address, approximate
+location, and timestamps — tied to what you post and send. If you post or send
+illegal content, these records may be disclosed to law enforcement.
+
 TalkTime is a place to express yourself and be heard. If you're going through a
 hard time or thinking about hurting yourself, please reach out to someone you
 trust or a local support/crisis line — you're not alone.
