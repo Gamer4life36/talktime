@@ -13,10 +13,11 @@ sign‑up, no email — you just open it and go. **Everyone is anonymous.**
 - **Posts** — share text over colorful backgrounds; **like** and **reply** to
   posts. Browse **Latest**, **Local** (near you), or by **Tag** — **search
   tags** to find topics, and **add your own tags** when you post.
-- **Chat rooms** — public topic rooms (**Singles, Humor, Gaming, Family Issues,
-  Trading Cards, PC Geeks**, and an **18+ NSFW** room), and you can **create your
-  own room**. Post text and photos/short videos to the room. The NSFW room asks
-  you to confirm before entering.
+- **Chat rooms** — themed rooms (**Singles, Humor, Gaming, Family Issues,
+  Trading Cards, PC Geeks**, and an **18+ NSFW** room), each with its own **post
+  feed**, description, and **member count**. Post to a room just like a regular
+  post, then like and reply. **Create your own room** too. The NSFW room asks you
+  to confirm before entering.
 - **Private messages (DMs)** — one‑to‑one chats with **images** and **short
   videos (up to 10 seconds)**, plus **read receipts**. Send media with the
   **＋** button, and tap any photo to view it full‑screen. The **camera icon**
