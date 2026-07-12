@@ -55,9 +55,14 @@ sign‑up, no email — you just open it and go. **Everyone is anonymous.**
 TalkTime is provided **"as is"**, with no warranties of any kind. **You use this
 app entirely at your own risk and assume sole responsibility for how you use it**,
 including anything you post, send, or share, and any interactions with other
-users. You must be of legal age in your location and follow all applicable laws;
-do not post or send anything illegal, and do not harass, threaten, impersonate,
-or harm others. To the fullest extent permitted by law, the creators and anyone
-involved in making this app are **not liable** for any loss, damage, or harm
-arising from your use of the app or from other users' conduct. You accept these
-terms when you tap **I Agree** on first launch.
+users. Follow all applicable laws; do not post or send anything illegal, and do
+not harass, threaten, impersonate, or harm others.
+
+TalkTime is a place to express yourself and be heard. If you're going through a
+hard time or thinking about hurting yourself, please reach out to someone you
+trust or a local support/crisis line — you're not alone.
+
+To the fullest extent permitted by law, the creators and anyone involved in
+making this app are **not liable** for any loss, damage, or harm arising from
+your use of the app or from other users' conduct. You accept these terms when
+you tap **I Agree** on first launch.
